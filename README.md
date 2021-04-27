@@ -1,1 +1,1 @@
-# DeepONet_config
+# DeepONet
